@@ -87,15 +87,11 @@ THE SOFTWARE.
 
 @angular/material/autocomplete
 
-@angular/material/button
-
 @angular/material/checkbox
 
 @angular/material/core
 
 @angular/material/form-field
-
-@angular/material/menu
 
 @angular/material/radio
 
