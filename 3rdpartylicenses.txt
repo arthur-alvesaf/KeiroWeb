@@ -87,6 +87,8 @@ THE SOFTWARE.
 
 @angular/material/autocomplete
 
+@angular/material/button
+
 @angular/material/checkbox
 
 @angular/material/core
@@ -366,6 +368,8 @@ THE SOFTWARE.
 ng2-charts
 ISC
 
+ngx-bootstrap/accordion
+
 ngx-bootstrap/alert
 
 ngx-bootstrap/collapse
@@ -381,6 +385,8 @@ ngx-bootstrap/positioning
 ngx-bootstrap/progressbar
 
 ngx-bootstrap/tabs
+
+ngx-bootstrap/tooltip
 
 ngx-bootstrap/utils
 
